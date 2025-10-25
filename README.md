@@ -96,9 +96,13 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 **What is Acceptance Criteria?**
 
 - Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
-  **Benefits of Acceptance Criteria:**
+
+**Benefits of Acceptance Criteria:**
+
 - Ensure all parties have a clear understanding of feature requirements.
 - Provide a basis for testing and validation.
 - Help in maintaining quality and meeting user expectations.
-  **Example for Booking System**
-  Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.
+
+**Example for Booking System**
+
+Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.
