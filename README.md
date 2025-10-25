@@ -57,7 +57,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 
 - **Definition:** Describe what the system should do.
 - **Examples:** User authentication, property search, booking system, user registration.
-  - **Key Functional Requirements:**
+  **Key Functional Requirements:**
 
 * **Search Properties:** Users should be able to search for properties based on various criteria such as location, price, and availability.
 * **User Registration:** New users should be able to create an account with personal details and login credentials.
@@ -69,7 +69,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 
 - **Definition:** Describe how the system should perform.
 - **Examples:** Performance, security, scalability, usability, reliability.
-  - **Key Non-functional Requirements:**
+  **Key Non-functional Requirements:**
 - **Performance:** The system should load pages within 2 seconds and handle up to 1000 concurrent users.
 - **Security:** Ensure data encryption, secure login, and protect against common vulnerabilities.
 - **Scalability:** The system should be able to scale horizontally to handle increased traffic.
