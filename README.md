@@ -93,7 +93,6 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 
 ## Use Diagram
 
-alx-booking-uc.png
 ![Booking System Use Case Diagram](alx-booking-uc.png)
 
 ## Acceptance Criteria ✅
